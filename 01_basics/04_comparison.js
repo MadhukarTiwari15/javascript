@@ -16,4 +16,8 @@ console.log(null >= 0)
 
 //so in simple when we use comparison operator then coercion happens and not for equity 
 
+
+
+
+//  === strict check , checks for both value and data types 
 console.log()
